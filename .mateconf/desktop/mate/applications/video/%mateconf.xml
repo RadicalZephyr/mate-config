@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="exec" mtime="1342553093" type="string">
+		<stringvalue>vlc %s</stringvalue>
+	</entry>
+</mateconf>

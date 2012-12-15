@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="nremote" mtime="1342570959" type="bool" value="false"/>
+	<entry name="exec" mtime="1342570959" type="string">
+		<stringvalue>google-chrome</stringvalue>
+	</entry>
+</mateconf>

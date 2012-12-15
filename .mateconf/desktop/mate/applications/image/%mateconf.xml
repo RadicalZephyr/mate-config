@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="exec" mtime="1342570965" type="string">
+		<stringvalue>eog %s</stringvalue>
+	</entry>
+</mateconf>

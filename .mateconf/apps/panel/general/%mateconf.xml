@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="applet_id_list" mtime="1354814815" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>applet_mintmenu</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>applet_showdesktop</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>applet_windowlist</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>applet_clock</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>applet_indicator</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>applet_notification</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>applet_0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>applet_1</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>applet_2</stringvalue>
+		</li>
+	</entry>
+	<entry name="object_id_list" mtime="1354814815" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>object_1</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>mintmenu_3ppv1h9q</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>object_4</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>object_3</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>mintmenu_ac9ikaw6</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>mintmenu_4zompz8c</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>mintmenu_k9vo6ncs</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>object_2</stringvalue>
+		</li>
+	</entry>
+	<entry name="toplevel_id_list" mtime="1354814815" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>panel_0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>panel_1</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>panel_3</stringvalue>
+		</li>
+	</entry>
+</mateconf>

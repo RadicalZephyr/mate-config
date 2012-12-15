@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="run_command_terminal" mtime="1342552423" type="string">
+		<stringvalue>&lt;Primary&gt;&lt;Alt&gt;t</stringvalue>
+	</entry>
+</mateconf>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="hinting" mtime="1342570992" type="string">
+		<stringvalue>slight</stringvalue>
+	</entry>
+	<entry name="antialiasing" mtime="1342570992" type="string">
+		<stringvalue>rgba</stringvalue>
+	</entry>
+</mateconf>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="opacity" mtime="1342561075" type="int" value="16085"/>
+	<entry name="color" mtime="1342561069" type="string">
+		<stringvalue>#9a3434</stringvalue>
+	</entry>
+	<entry name="type" mtime="1342561077" type="string">
+		<stringvalue>gtk</stringvalue>
+	</entry>
+</mateconf>

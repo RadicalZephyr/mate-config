@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="default_window_maximized" mtime="1342648281" type="bool" value="false"/>
+	<entry name="default_window_height" mtime="1342648281" type="int" value="350"/>
+	<entry name="default_window_width" mtime="1342648281" type="int" value="554"/>
+	<entry name="look_in_folder" mtime="1342648279" type="string">
+		<stringvalue>/home/geoff</stringvalue>
+	</entry>
+</mateconf>

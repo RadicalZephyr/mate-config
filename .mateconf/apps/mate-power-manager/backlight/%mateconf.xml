@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="brightness_ac" mtime="1342631203" type="int" value="72"/>
+	<entry name="idle_dim_battery" mtime="1344440988" type="bool" value="true"/>
+	<entry name="battery_reduce" mtime="1344440988" type="bool" value="true"/>
+	<entry name="idle_dim_ac" mtime="1344440995" type="bool" value="false"/>
+</mateconf>

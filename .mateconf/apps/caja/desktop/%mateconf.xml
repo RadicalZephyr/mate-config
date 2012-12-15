@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="home_icon_visible" mtime="1342553424" type="bool" value="false"/>
+	<entry name="computer_icon_visible" mtime="1342553423" type="bool" value="false"/>
+</mateconf>

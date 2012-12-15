@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Development;Utility;TextEditor;
+Comment=GNU Emacs Snapshot Text Editor
+Exec=/usr/bin/emacs-snapshot-gtk
+GenericName=Emacs
+Icon=emacs-snapshot
+MimeType=text/plain;
+Name=Emacs Snapshot (GTK)
+NoDisplay=false
+Terminal=false
+TryExec=emacs-snapshot
+Type=Application
+Version=1.0

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="command" mtime="1342553111" type="string">
+		<stringvalue>thunderbird %s</stringvalue>
+	</entry>
+</mateconf>

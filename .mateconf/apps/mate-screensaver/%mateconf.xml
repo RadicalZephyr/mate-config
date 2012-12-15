@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="lock_enabled" mtime="1342553124" type="bool" value="true"/>
+	<entry name="idle_activation_enabled" mtime="1344441018" type="bool" value="false"/>
+	<entry name="themes" mtime="1344440975" type="list" ltype="string">
+	</entry>
+	<entry name="mode" mtime="1344440975" type="string">
+		<stringvalue>blank-only</stringvalue>
+	</entry>
+</mateconf>

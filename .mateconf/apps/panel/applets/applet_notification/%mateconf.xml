@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="panel_right_stick" mtime="1342631747" type="bool" value="false"/>
+	<entry name="position" mtime="1351618294" type="int" value="1119"/>
+	<entry name="locked" mtime="1351618307" type="bool" value="true"/>
+</mateconf>

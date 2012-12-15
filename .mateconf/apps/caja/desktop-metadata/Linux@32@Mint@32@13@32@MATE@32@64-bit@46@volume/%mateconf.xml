@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="caja-icon-position-timestamp" mtime="1342554119" type="string">
+		<stringvalue>1342554119</stringvalue>
+	</entry>
+	<entry name="icon-scale" mtime="1342554119" type="string">
+		<stringvalue>1</stringvalue>
+	</entry>
+	<entry name="caja-icon-position" mtime="1342554119" type="string">
+		<stringvalue>64,10</stringvalue>
+	</entry>
+</mateconf>

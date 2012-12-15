@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="suspend" mtime="1344440988" type="string">
+		<stringvalue>suspend</stringvalue>
+	</entry>
+	<entry name="power" mtime="1344440988" type="string">
+		<stringvalue>interactive</stringvalue>
+	</entry>
+	<entry name="lid_battery" mtime="1344440988" type="string">
+		<stringvalue>suspend</stringvalue>
+	</entry>
+	<entry name="lid_ac" mtime="1344440988" type="string">
+		<stringvalue>suspend</stringvalue>
+	</entry>
+</mateconf>

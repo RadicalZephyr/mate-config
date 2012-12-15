@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="virtual_root" mtime="1355348470" type="string">
+		<stringvalue>file:///home/geoff/Downloads</stringvalue>
+	</entry>
+	<entry name="root" mtime="1355348470" type="string">
+		<stringvalue>file:///</stringvalue>
+	</entry>
+	<entry name="tree_view" mtime="1355348470" type="bool" value="true"/>
+</mateconf>

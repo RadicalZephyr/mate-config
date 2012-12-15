@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="exec" mtime="1342553096" type="string">
+		<stringvalue>pluma %s</stringvalue>
+	</entry>
+</mateconf>
